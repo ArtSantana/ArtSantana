@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- ## I'm a junior developer looking for improve my skills everyday and help others 👾
+ ### I'm a junior developer looking for improve my skills everyday and help others 👾
 
 
 - 🔭 I’m currently working on mobile projects with React Native with Typescript
