@@ -6,5 +6,4 @@
 - 🔭 I’m currently working on microservices with Java
 - 🌱 I’m currently learning some GO stuff
 - 👯 I’m looking to collaborate on open source projets
-- 📫 You can reach me on: twitter.com/artMKB
-- 💻 I use daily: .java, .ts, .tsx, .go
+- 💻 I use daily: .java, .kotlin, .ts.
